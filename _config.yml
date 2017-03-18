@@ -1,0 +1,8 @@
+title: Zengchengjie.GitHub.io
+description: 曾成洁的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
