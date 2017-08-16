@@ -1,8 +1,26 @@
-title: Zengchengjie.GitHub.io
-description: 曾成洁的博客
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-time-machine
+# Site settings
+name: zengchengjie
+email: zengchengjieit@163.com
+author: zengchengjie
+# url: http://www.hifreud.com
+# resume_site: http://www.github.com/zengchengjie.io/#个人简历网站
+github: https://github.com/zengchengjie/
+baseurl: ''
+description: Be Better
+meta_description: 曾成洁；个人博客
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
 
-gems:
-  - jekyll-mentions
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: zengchengjie
+# highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+
+# baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9  
